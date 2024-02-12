@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Ethereum Blockchai
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/10/p_Ethereum.png)](https://dicer0.com/#skills)
+[![Ethereum](http://dicer0.com/wp-content/uploads/2023/10/p_Ethereum.png)](https://dicer0.com/#skills)
